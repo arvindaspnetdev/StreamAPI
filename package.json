@@ -22,7 +22,7 @@
 		"method-override": "^2.3.9",
 		"moment": "^2.18.1",
 		"mongoose": "^4.11.8",
-		"nconf": "^0.8.4",
+		"nconf": "^0.11.4",
 		"nodemon": "^1.19.4",
 		"passport": "^0.4.0",
 		"passport-github": "^1.1.0",
